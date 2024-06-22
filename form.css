@@ -1,0 +1,37 @@
+#forms{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+    font-size: x-large;
+    border: 1px solid;
+    border-radius: 25px;
+    height: 60vh;
+    width: 900px;
+    background-color: #faebd7;
+    margin-left: 20%;
+}
+#login{
+    font-size: xx-large;
+    text-align: center;
+    
+}
+#button1{
+    color: aliceblue;
+    background-color: rgb(49, 82, 82);
+    border-radius: 50px;
+    height: 40px;
+    width: 135px;
+    border: none;
+}
+body{
+    background-color:gradient(rgb )
+}
+
+img{
+    width: 7%;
+    height: 7%;
+
+}
+body{
+    background-color: darksalmon;
+}

@@ -1,0 +1,35 @@
+#styleform{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+    border: 1px solid;
+    border-radius: 40px;
+    height: 60vh;
+    width: 750px;
+    background-color: antiquewhite;
+    margin-left: 30%;
+    font-size: larger;
+
+}
+#Login{
+    text-align: center;
+    font-size: x-large;
+    
+}
+#button1{
+    color: aliceblue;
+    background-color: rgb(24, 53, 53);
+    border-radius: 50px;
+    height: 40px;
+    width: 135px;
+    border: none;
+    
+    
+
+
+
+
+}
+body{
+    background-color: darksalmon;
+}

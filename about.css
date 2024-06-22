@@ -1,0 +1,44 @@
+
+#vision{
+   display: flex;
+   justify-content: center;
+   font-size: large;
+   text-align: center;
+
+}
+.image{
+    border-radius: 25px;
+    height: 400px;
+    width: 400px;
+}
+.img2{
+    border-radius: 25px;
+    height: 400px;
+    width: 400px;
+    margin-left: 60px;
+}
+.img3{
+    height: 400px ;
+    width: 400px;
+    margin-top: 8px;
+    border-radius:25px ;
+    margin-left: 60px;
+}
+body{
+    background-color:darksalmon;
+}
+
+    #navbar{
+        display: flex;
+        justify-content: center;
+        gap: 5%;
+    }
+    #text{
+        
+      text-decoration: none;
+      color: black;
+      font-size: x-large;
+    }
+a :hover{
+    background-color: chocolate;
+}
